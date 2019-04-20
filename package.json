@@ -5,10 +5,6 @@
   "dependencies": {
     "noble": "https://github.com/abandonware/noble.git"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/kmi/node-red-contrib-noble"
-  },
   "license": "Apache",
   "keywords": [
     "node-red",
